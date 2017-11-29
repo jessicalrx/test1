@@ -18,10 +18,10 @@ As shown in the criminal map page(find link below), it is clear to see where tho
 The second figure shows the frequency of crime in DC. According to the color bar, deep red means high frequency of crime, while green means the opposite. From this heatmap, Crimes often happen in the third quarter, from July to September. Crimes are less likely to occur in the first quarter. However, since February has 29th every four years, the light grey chunk in 29th quarter one seems to be meaningless. Also, it is easy to switch to different crime types by checking or unchecking the filter on the right side. 
 Therefore, we suggest all the tourists who plan to visit DC choose to arrive at the first and the second quarter. 
 
-![crime heatmap](crime heatmap.png)
+![crime heatmap](crimeheatmap.png)
 
 This table describes crime frequency based on time throughout the day. You can also choose the seasonality from the right bar. For example, if you choose the spring, it will show you the total crimes in the first season. The crime trend varies from time to time. Most crimes happen from 9am to 9pm. And the car stealing and other kind of theft comes up of a large weight of the total crime. So, it is wisely for tourists to watch out for their cars and park in appropriate locations.
 
-![daily trend](daily trend.png)
+![daily trend](dailytrend.png)
 
 # Conclusion
