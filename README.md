@@ -13,7 +13,7 @@ After further exploring the crime report data of DC area, we were able to build 
 
 As shown in the criminal map page(find link below), it is clear to see where those crimes were committed by dividing the city into districts. To further investigate the frequency of different types of occurrence in a specific location and time, it is highly suggested to use the filter bar on the side. For example, if we focus on District 3, the table shows that “assault w/dangerous weapon", "burglary", "motor vehicle theft", "robbery", and "theft" happen more frequently than other types during the entire year. Also, we realized that the blank space does not mean "pretty safe" or fewer crimes ever happened as it is the place where not so many people are currently living. For example, the yellow area may have a lower crime rate as there is an arboretum on the east side. It does not make sense to say that the yellow area is safer. 
 
-![criminal map](criminal map.png)
+![criminal map](images.png)
 
 The second figure shows the frequency of crime in DC. According to the color bar, deep red means high frequency of crime, while green means the opposite. From this heatmap, Crimes often happen in the third quarter, from July to September. Crimes are less likely to occur in the first quarter. However, since February has 29th every four years, the light grey chunk in 29th quarter one seems to be meaningless. Also, it is easy to switch to different crime types by checking or unchecking the filter on the right side. 
 Therefore, we suggest all the tourists who plan to visit DC choose to arrive at the first and the second quarter. 
