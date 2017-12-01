@@ -21,7 +21,7 @@ Therefore, we suggest all the tourists who plan to visit DC choose to arrive at 
 
 ![crime heatmap](crimeheatmap.png)
 
-This table describes crime frequency based on time throughout the day. You can also choose the seasonality from the right bar. For example, if you choose the spring, it will show you the total crimes in the first season. The crime trend varies from time to time. Most crimes happen from 9am to 9pm. And the car stealing and other kind of theft comes up of a large weight of the total crime. So, it is wisely for tourists to watch out for their cars and park in appropriate locations.
+The following table describes crime frequency based on time throughout the day. You can also choose the seasonality from the right bar. For example, if you choose the spring, it will show you the total crimes in the first season. The crime trend varies from time to time. Most crimes happen from 9am to 9pm. And the car stealing and other kind of theft comes up of a large weight of the total crime. So, it is wisely for tourists to watch out for their cars and park in appropriate locations.
 
 ![daily trend](dailytrend.png)
 
