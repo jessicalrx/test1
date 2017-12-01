@@ -1,4 +1,5 @@
 # Introduction
+
 Washington DC is an international and historic metropolitan city that attracts millions of tourists from the world every year. As the capital of the United States, DC represents the center for politics, economy and leadership. The city has the responsibility of ensuring all tourists’ safety.  However, crimes and violence still exist and may seriously bring threats to people who are not familiar with the environment. It would be interesting to contribute to this great city from a data analytical perspective. The project targets to provide tourists valuable analysis about patterns of past crime records in order to enhance their acknowledgement of this city.
 
 The dataset contains detailed information related to each crime record during 2008, 2014 and 2015. This project uses historical data to rank districts by safety level. Besides, it would help to locate areas that are more suitable and secured for tourists to stay. A list of tips for safety stay would be included. By comparing the historial criminal data with the recent records across different locations in DC, we would discover how the criminal rate has changed overtime. Knowing the criminal environment may also help to understand some other facts about DC. For example, the dataset may reveal some weak spots for the government and police department to pay more attention with. The goal of this project is to extract as much value as possible to improve the living environment in DC. Only when the security factors are settled, can the community make steady progress.
@@ -25,3 +26,8 @@ This table describes crime frequency based on time throughout the day. You can a
 ![daily trend](dailytrend.png)
 
 # Conclusion
+
+In this project, we created interactive data visualization graphs that demonstrate location, date/time, and frequency by the types of crimes happened in DC area in history. How to present raw data in a meaningful and interesting way to allow users quickly catch the information as much as possible was our biggest challenge. Since our goal is to provide safety suggestions for travelers, we thought a map would be the best way to show the distributions of crimes in different locations. However, if we include all types of crimes in the map, there will be too much information on the map and make the map hard to digest. Thus, we built an interactive toolbar for users to select only the types of crimes that they worry about to show on the map. We also duplicated this process for date/time information, presenting frequency of user-selected crimes by quarters in a heat table. Based on our analysis on the graphs, we suggestion travelers to come to DC in the first two quarters and choose proper locations to stay by using our interactive graphs. 
+
+
+[Link to Tableau Workbook Online](https://public.tableau.com/profile/jiafeng.xu#!/vizhome/projectDC/DC?publish=yes)
