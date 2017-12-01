@@ -1,3 +1,5 @@
+# Group 9: Xiancaozhi Yi, Mingqi Liu, Ruixi Liu, Xin Su, Jiafeng Xu
+
 # Introduction
 
 Washington DC is an international and historic metropolitan city that attracts millions of tourists from the world every year. As the capital of the United States, DC represents the center for politics, economy and leadership. The city has the responsibility of ensuring all tourists’ safety.  However, crimes and violence still exist and may seriously bring threats to people who are not familiar with the environment. It would be interesting to contribute to this great city from a data analytical perspective. The project targets to provide tourists valuable analysis about patterns of past crime records in order to enhance their acknowledgement of this city.
@@ -31,3 +33,5 @@ In this project, we created interactive data visualization graphs that demonstra
 
 
 [Link to Tableau Workbook Online](https://public.tableau.com/profile/jiafeng.xu#!/vizhome/projectDC/DC?publish=yes)
+
+
